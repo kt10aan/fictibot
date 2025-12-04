@@ -30,3 +30,4 @@ analysis:
         tags:
             - formatting
             - copyright
+            - halstead-bugs
